@@ -1,67 +1,67 @@
 fileFormatVersion: 2
-guid: fb50a7c3fa999174ab2036c193a58520
+guid: 8c7a07e4001e8ad4ba7b2057d7b2312f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3131987299357257715
-    second: rory_concept_art_0
+      213: 3791605266307844733
+    second: rory_concept_art 1_0
   - first:
-      213: 7718416954125306223
-    second: rory_concept_art_1
+      213: -838643297017417314
+    second: rory_concept_art 1_1
   - first:
-      213: -6506955987625244759
-    second: rory_concept_art_2
+      213: -4476555633267821182
+    second: rory_concept_art 1_2
   - first:
-      213: -5772721577543307620
-    second: rory_concept_art_3
+      213: 2322268966534432324
+    second: rory_concept_art 1_3
   - first:
-      213: -8354611007958531200
-    second: rory_concept_art_4
+      213: 8404584790410128586
+    second: rory_concept_art 1_4
   - first:
-      213: 9094233889994630053
-    second: rory_concept_art_5
+      213: -6471346457508824943
+    second: rory_concept_art 1_5
   - first:
-      213: 7160360491522323695
-    second: rory_concept_art_6
+      213: -2966726698491053331
+    second: rory_concept_art 1_6
   - first:
-      213: 8190056987539879502
-    second: rory_concept_art_7
+      213: 2651132242736258120
+    second: rory_concept_art 1_7
   - first:
-      213: 2410852501663904631
-    second: rory_concept_art_8
+      213: -7357167213665917806
+    second: rory_concept_art 1_8
   - first:
-      213: -6437110155757931318
-    second: rory_concept_art_9
+      213: 5160673901943991828
+    second: rory_concept_art 1_9
   - first:
-      213: -2745754236285957529
-    second: rory_concept_art_10
+      213: -2991366210137828623
+    second: rory_concept_art 1_10
   - first:
-      213: -1458471868717806183
-    second: rory_concept_art_11
+      213: 6524301732291724460
+    second: rory_concept_art 1_11
   - first:
-      213: 211626356950439107
-    second: rory_concept_art_12
+      213: 2382182762085812895
+    second: rory_concept_art 1_12
   - first:
-      213: 8665350666961163583
-    second: rory_concept_art_13
+      213: -6627917739350030875
+    second: rory_concept_art 1_13
   - first:
-      213: 2484051892266530292
-    second: rory_concept_art_14
+      213: 1639102984272905368
+    second: rory_concept_art 1_14
   - first:
-      213: -5493622833931276957
-    second: rory_concept_art_15
+      213: 8643222386626115824
+    second: rory_concept_art 1_15
   - first:
-      213: -7413174513703808603
-    second: rory_concept_art_16
+      213: 8816429484019949820
+    second: rory_concept_art 1_16
   - first:
-      213: 4002714582492768339
-    second: rory_concept_art_17
+      213: 648874347823131400
+    second: rory_concept_art 1_17
   - first:
-      213: -3006222677112901776
-    second: rory_concept_art_18
+      213: -2231879627237273542
+    second: rory_concept_art 1_18
   - first:
-      213: 3364990133927091415
-    second: rory_concept_art_19
+      213: -4145024376121113939
+    second: rory_concept_art 1_19
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -170,7 +170,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: rory_concept_art_0
+      name: rory_concept_art 1_0
       rect:
         serializedVersion: 2
         x: 14
@@ -184,14 +184,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 322b469763738fb42bd91434c07a3c52
-      internalID: -3131987299357257715
+      spriteID: 1e9b5aa1b78b4bb45aaaba6593772ffe
+      internalID: 3791605266307844733
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rory_concept_art_1
+      name: rory_concept_art 1_1
       rect:
         serializedVersion: 2
         x: 77
@@ -205,14 +205,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 66cbfb7224768dc4988c5469ef1ac6d4
-      internalID: 7718416954125306223
+      spriteID: cc39e7f576f020e438505e869e8845e0
+      internalID: -838643297017417314
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rory_concept_art_2
+      name: rory_concept_art 1_2
       rect:
         serializedVersion: 2
         x: 145
@@ -226,14 +226,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c735b5b82b359e44cb0af6eb52998b9f
-      internalID: -6506955987625244759
+      spriteID: 21d33fe3b6a705b48b761a375866735f
+      internalID: -4476555633267821182
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rory_concept_art_3
+      name: rory_concept_art 1_3
       rect:
         serializedVersion: 2
         x: 208
@@ -247,14 +247,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02807efcac73d4a409dcf6cde3e795c4
-      internalID: -5772721577543307620
+      spriteID: d5052cf7d8d6be94ea22f2d744cfe133
+      internalID: 2322268966534432324
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rory_concept_art_4
+      name: rory_concept_art 1_4
       rect:
         serializedVersion: 2
         x: 14
@@ -268,14 +268,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02eed5dc103d54542928f3ef9d7cdd56
-      internalID: -8354611007958531200
+      spriteID: 9b55d795c5fa6b14dbfeb56db6b5e46c
+      internalID: 8404584790410128586
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rory_concept_art_5
+      name: rory_concept_art 1_5
       rect:
         serializedVersion: 2
         x: 78
@@ -289,14 +289,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1787ae6ff470ec445bd54a6f9fad8f21
-      internalID: 9094233889994630053
+      spriteID: b4f26229f0cd7cf46a16cab98b91d0a0
+      internalID: -6471346457508824943
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rory_concept_art_6
+      name: rory_concept_art 1_6
       rect:
         serializedVersion: 2
         x: 145
@@ -310,14 +310,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c4a1fbb7d17fe28479a1939e154f9132
-      internalID: 7160360491522323695
+      spriteID: ae35690a535954f49b470f850510b220
+      internalID: -2966726698491053331
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rory_concept_art_7
+      name: rory_concept_art 1_7
       rect:
         serializedVersion: 2
         x: 205
@@ -331,14 +331,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b0b07bd2330165d49b70b14b204f77e4
-      internalID: 8190056987539879502
+      spriteID: ef453d8a6bba9f640a031effddeff90b
+      internalID: 2651132242736258120
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rory_concept_art_8
+      name: rory_concept_art 1_8
       rect:
         serializedVersion: 2
         x: 18
@@ -352,14 +352,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9cd05ba318c114f4d9faa1adc28c4ce2
-      internalID: 2410852501663904631
+      spriteID: 97754c20df0925b4ea9c31b86a82c406
+      internalID: -7357167213665917806
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rory_concept_art_9
+      name: rory_concept_art 1_9
       rect:
         serializedVersion: 2
         x: 82
@@ -373,20 +373,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0db78ffd88da57f42a1577b3a1d1b18c
-      internalID: -6437110155757931318
+      spriteID: 4c61c76c461f7cb4c942fbf7d190b7ec
+      internalID: 5160673901943991828
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rory_concept_art_10
+      name: rory_concept_art 1_10
       rect:
         serializedVersion: 2
-        x: 144
+        x: 145
         y: 132
-        width: 33
-        height: 57
+        width: 32
+        height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -394,19 +394,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f924e4b28f1fc274c9c656a1c760cc36
-      internalID: -2745754236285957529
+      spriteID: bcfb57ca89b6287478954fa70b1e7357
+      internalID: -2991366210137828623
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rory_concept_art_11
+      name: rory_concept_art 1_11
       rect:
         serializedVersion: 2
-        x: 207
-        y: 133
-        width: 35
+        x: 205
+        y: 131
+        width: 33
         height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -415,14 +415,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 10fd6ccae4a85f5419876e2315ab6169
-      internalID: -1458471868717806183
+      spriteID: 57838fbbda4159842bd9d99c6c052d3c
+      internalID: 6524301732291724460
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rory_concept_art_12
+      name: rory_concept_art 1_12
       rect:
         serializedVersion: 2
         x: 14
@@ -436,14 +436,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9220563d18207cb4d82e5e1c1835b746
-      internalID: 211626356950439107
+      spriteID: 9d11ff660ad488e45a3b6daaa6a7aa3a
+      internalID: 2382182762085812895
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rory_concept_art_13
+      name: rory_concept_art 1_13
       rect:
         serializedVersion: 2
         x: 78
@@ -457,14 +457,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f67fdb8b0e4ab3145b8996d399aef176
-      internalID: 8665350666961163583
+      spriteID: 1820417c050f57744b1fac044383052f
+      internalID: -6627917739350030875
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rory_concept_art_14
+      name: rory_concept_art 1_14
       rect:
         serializedVersion: 2
         x: 142
@@ -478,14 +478,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: caaec6da6f0f56c41826b005afd79fa6
-      internalID: 2484051892266530292
+      spriteID: c12cfdf7a370cbd43bf2de9eb8d942b6
+      internalID: 1639102984272905368
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rory_concept_art_15
+      name: rory_concept_art 1_15
       rect:
         serializedVersion: 2
         x: 206
@@ -499,14 +499,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76e9dcfb675745f4493b635dab7376e1
-      internalID: -5493622833931276957
+      spriteID: 5db3bcf73f92f674cb4242658876ef8f
+      internalID: 8643222386626115824
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rory_concept_art_16
+      name: rory_concept_art 1_16
       rect:
         serializedVersion: 2
         x: 14
@@ -520,14 +520,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 169c38c5c41f84b43b8bfc5916319f74
-      internalID: -7413174513703808603
+      spriteID: 00fd3b3d277268b4fab3cbd51ea1a7f3
+      internalID: 8816429484019949820
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rory_concept_art_17
+      name: rory_concept_art 1_17
       rect:
         serializedVersion: 2
         x: 78
@@ -541,14 +541,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a4bfef4b0b610f4e9c970e2d912c946
-      internalID: 4002714582492768339
+      spriteID: ad92a8ab4a14ceb47a261d0857a214ed
+      internalID: 648874347823131400
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rory_concept_art_18
+      name: rory_concept_art 1_18
       rect:
         serializedVersion: 2
         x: 143
@@ -562,14 +562,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f3c8e1d60c14de4cb972d6232ba2248
-      internalID: -3006222677112901776
+      spriteID: 20a185322591c8d48bcfd9de136bcc3b
+      internalID: -2231879627237273542
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rory_concept_art_19
+      name: rory_concept_art 1_19
       rect:
         serializedVersion: 2
         x: 209
@@ -583,8 +583,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c2752309944409b4d8da0f4fe2be9f6f
-      internalID: 3364990133927091415
+      spriteID: 51ecd68a70dfd5643bbafed9dccab6da
+      internalID: -4145024376121113939
       vertices: []
       indices: 
       edges: []
