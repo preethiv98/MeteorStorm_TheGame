@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: 8c7a07e4001e8ad4ba7b2057d7b2312f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3791605266307844733
+    second: rory_concept_art 1_0
+  - first:
+      213: -838643297017417314
+    second: rory_concept_art 1_1
+  - first:
+      213: -4476555633267821182
+    second: rory_concept_art 1_2
+  - first:
+      213: 2322268966534432324
+    second: rory_concept_art 1_3
+  - first:
+      213: 8404584790410128586
+    second: rory_concept_art 1_4
+  - first:
+      213: -6471346457508824943
+    second: rory_concept_art 1_5
+  - first:
+      213: -2966726698491053331
+    second: rory_concept_art 1_6
+  - first:
+      213: 2651132242736258120
+    second: rory_concept_art 1_7
+  - first:
+      213: -7357167213665917806
+    second: rory_concept_art 1_8
+  - first:
+      213: 5160673901943991828
+    second: rory_concept_art 1_9
+  - first:
+      213: -2991366210137828623
+    second: rory_concept_art 1_10
+  - first:
+      213: 6524301732291724460
+    second: rory_concept_art 1_11
+  - first:
+      213: 2382182762085812895
+    second: rory_concept_art 1_12
+  - first:
+      213: -6627917739350030875
+    second: rory_concept_art 1_13
+  - first:
+      213: 1639102984272905368
+    second: rory_concept_art 1_14
+  - first:
+      213: 8643222386626115824
+    second: rory_concept_art 1_15
+  - first:
+      213: 8816429484019949820
+    second: rory_concept_art 1_16
+  - first:
+      213: 648874347823131400
+    second: rory_concept_art 1_17
+  - first:
+      213: -2231879627237273542
+    second: rory_concept_art 1_18
+  - first:
+      213: -4145024376121113939
+    second: rory_concept_art 1_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rory_concept_art 1_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 262
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9b5aa1b78b4bb45aaaba6593772ffe
+      internalID: 3791605266307844733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rory_concept_art 1_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 262
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc39e7f576f020e438505e869e8845e0
+      internalID: -838643297017417314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rory_concept_art 1_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 262
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d33fe3b6a705b48b761a375866735f
+      internalID: -4476555633267821182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rory_concept_art 1_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 262
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5052cf7d8d6be94ea22f2d744cfe133
+      internalID: 2322268966534432324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rory_concept_art 1_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 195
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b55d795c5fa6b14dbfeb56db6b5e46c
+      internalID: 8404584790410128586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rory_concept_art 1_5
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 199
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f26229f0cd7cf46a16cab98b91d0a0
+      internalID: -6471346457508824943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rory_concept_art 1_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 198
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae35690a535954f49b470f850510b220
+      internalID: -2966726698491053331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rory_concept_art 1_7
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 196
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef453d8a6bba9f640a031effddeff90b
+      internalID: 2651132242736258120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rory_concept_art 1_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 132
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97754c20df0925b4ea9c31b86a82c406
+      internalID: -7357167213665917806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rory_concept_art 1_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 131
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c61c76c461f7cb4c942fbf7d190b7ec
+      internalID: 5160673901943991828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rory_concept_art 1_10
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 132
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfb57ca89b6287478954fa70b1e7357
+      internalID: -2991366210137828623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rory_concept_art 1_11
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 131
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57838fbbda4159842bd9d99c6c052d3c
+      internalID: 6524301732291724460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rory_concept_art 1_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 67
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d11ff660ad488e45a3b6daaa6a7aa3a
+      internalID: 2382182762085812895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rory_concept_art 1_13
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 67
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1820417c050f57744b1fac044383052f
+      internalID: -6627917739350030875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rory_concept_art 1_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 67
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12cfdf7a370cbd43bf2de9eb8d942b6
+      internalID: 1639102984272905368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rory_concept_art 1_15
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 67
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db3bcf73f92f674cb4242658876ef8f
+      internalID: 8643222386626115824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rory_concept_art 1_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fd3b3d277268b4fab3cbd51ea1a7f3
+      internalID: 8816429484019949820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rory_concept_art 1_17
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 3
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad92a8ab4a14ceb47a261d0857a214ed
+      internalID: 648874347823131400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rory_concept_art 1_18
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 3
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a185322591c8d48bcfd9de136bcc3b
+      internalID: -2231879627237273542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rory_concept_art 1_19
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 3
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ecd68a70dfd5643bbafed9dccab6da
+      internalID: -4145024376121113939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
