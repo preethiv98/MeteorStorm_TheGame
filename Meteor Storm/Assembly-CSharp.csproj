@@ -85,6 +85,7 @@
      <Compile Include="Assets\Scripts\Stealth.cs" />
      <Compile Include="Assets\Scripts\StealthRespawn.cs" />
      <Compile Include="Assets\Scripts\Teleporter.cs" />
+     <None Include="Assets\Materials\SampleDialogue.txt" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>D:/Unity Projects/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
