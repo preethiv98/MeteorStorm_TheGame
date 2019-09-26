@@ -16,7 +16,7 @@ public class PlayerAnimController : MonoBehaviour
     void Start()
     {
         animator = GetComponent<Animator>();
-        gameObject.AddComponent<Attack>();
+       // gameObject.AddComponent<Attack>();
     }
 
     // Update is called once per frame
