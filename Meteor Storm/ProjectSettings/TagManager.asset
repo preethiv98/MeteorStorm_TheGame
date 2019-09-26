@@ -44,3 +44,15 @@ TagManager:
   - name: Player
     uniqueID: 2394745351
     locked: 0
+  - name: NPC
+    uniqueID: 2332367583
+    locked: 0
+  - name: Enemy
+    uniqueID: 2074556691
+    locked: 0
+  - name: Collider
+    uniqueID: 2179048341
+    locked: 0
+  - name: Environment
+    uniqueID: 3880017259
+    locked: 0
