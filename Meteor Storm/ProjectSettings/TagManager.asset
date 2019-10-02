@@ -41,6 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Environment
+    uniqueID: 3880017259
+    locked: 0
   - name: Player
     uniqueID: 2394745351
     locked: 0
@@ -52,7 +55,4 @@ TagManager:
     locked: 0
   - name: Collider
     uniqueID: 2179048341
-    locked: 0
-  - name: Environment
-    uniqueID: 3880017259
     locked: 0
