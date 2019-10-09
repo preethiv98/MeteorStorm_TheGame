@@ -60,6 +60,7 @@
      <Compile Include="Assets\Scripts\DialogueTrigger.cs" />
      <Compile Include="Assets\Scripts\Flickering_Light.cs" />
      <Compile Include="Assets\Scripts\Floater.cs" />
+     <Compile Include="Assets\Scripts\FreeParallax.cs" />
      <Compile Include="Assets\Scripts\GameController.cs" />
      <Compile Include="Assets\Scripts\Level_Change.cs" />
      <Compile Include="Assets\Scripts\LoadSceneOnClick.cs" />
@@ -69,6 +70,7 @@
      <Compile Include="Assets\Scripts\OnTriggerStay.cs" />
      <Compile Include="Assets\Scripts\Patrol.cs" />
      <Compile Include="Assets\Scripts\Patrol_NOFLIP.cs" />
+     <Compile Include="Assets\Scripts\Player_Health_Seg_Shield.cs" />
      <Compile Include="Assets\Scripts\Player_Health_Segmented.cs" />
      <Compile Include="Assets\Scripts\PlayerAnimController.cs" />
      <Compile Include="Assets\Scripts\PlayerAttackBehavior.cs" />
@@ -79,73 +81,75 @@
      <Compile Include="Assets\Scripts\PlaySound2D.cs" />
      <Compile Include="Assets\Scripts\Projectile.cs" />
      <Compile Include="Assets\Scripts\QuitOnClick.cs" />
+     <Compile Include="Assets\Scripts\Rotation.cs" />
      <Compile Include="Assets\Scripts\Rotator.cs" />
      <Compile Include="Assets\Scripts\Rotator_Planet.cs" />
      <Compile Include="Assets\Scripts\Scrolling_Background.cs" />
      <Compile Include="Assets\Scripts\Stealth.cs" />
-     <Compile Include="Assets\Scripts\StealthRespawn.cs" />
+     <Compile Include="Assets\Scripts\StealthRespawn 1.cs" />
      <Compile Include="Assets\Scripts\Teleporter.cs" />
+     <Compile Include="Assets\Scripts\Teleporter_TD.cs" />
      <None Include="Assets\Materials\SampleDialogue.txt" />
      <None Include="Assets\Scripts\SampleDialogue.txt" />
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>D:/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>D:/Unity Projects/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>D:/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>D:/Unity Projects/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.SpriteShape.Editor">
- <HintPath>D:/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
+ <HintPath>D:/Unity Projects/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>D:/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>D:/Unity Projects/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Path.Editor">
- <HintPath>D:/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
+ <HintPath>D:/Unity Projects/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>D:/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>D:/Unity Projects/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>D:/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>D:/Unity Projects/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>D:/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>D:/Unity Projects/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>D:/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>D:/Unity Projects/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Mathematics">
- <HintPath>D:/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+ <HintPath>D:/Unity Projects/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
  </Reference>
  <Reference Include="Unity.InternalAPIEngineBridge.001">
- <HintPath>D:/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
+ <HintPath>D:/Unity Projects/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Sprite.Editor">
- <HintPath>D:/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+ <HintPath>D:/Unity Projects/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Common.Runtime">
- <HintPath>D:/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
+ <HintPath>D:/Unity Projects/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Tilemap.Editor">
- <HintPath>D:/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+ <HintPath>D:/Unity Projects/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.SpriteShape.Runtime">
- <HintPath>D:/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
+ <HintPath>D:/Unity Projects/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Mathematics.Editor">
- <HintPath>D:/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+ <HintPath>D:/Unity Projects/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>D:/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>D:/Unity Projects/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Common.Editor">
- <HintPath>D:/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
+ <HintPath>D:/Unity Projects/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.InternalAPIEditorBridge.001">
- <HintPath>D:/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
+ <HintPath>D:/Unity Projects/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>D:/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>D:/Unity Projects/MeteorStorm_TheGame/Meteor Storm/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -323,12 +327,6 @@
  </Reference>
  <Reference Include="UnityEngine.XRModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.5f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
- </Reference>
- <Reference Include="UnityEditor.iOS.Extensions.Xcode">
- <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.5f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
- </Reference>
- <Reference Include="UnityEditor.iOS.Extensions.Common">
- <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.5f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.5f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
